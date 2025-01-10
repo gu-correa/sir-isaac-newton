@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/1795198041_378867709_223132457.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_1141282389_3045660666.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_2632191644_2800310481.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_1704852926_1000008728.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_2967468866_3573054751.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_1704852926_2443077528.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_3858876169_2704671991.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_1704852926_2476747833.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_49411712_511108046.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_1704852926_3017434608.mp4'
+file 'file:C:/Users/gucor/OneDrive/Documentos/Área de Trabalho/Sir Isaac Newton/Animações/Animação 1/media/videos/Animação 1/1920p60/partial_movie_files/notacoes_de_derivada/2210946382_771242200_2259844711.mp4'
