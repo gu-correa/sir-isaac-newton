@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQG-MwajNh8U9w/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735154144488?e=1736571600&v=beta&t=zLkXvrSf4KRguX-THVeiLX1rpIfoWBx3zbw3vpbJjVY" alt="Sir Isaac Newton - Logo" width="1000"/>
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQG-MwajNh8U9w/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735154144488?e=1740762000&v=beta&t=HOn8owPRYe0XqPWeNmCWTCemorIpLzKJdy3qPPsaI5U" alt="Sir Isaac Newton - Logo" width="1000"/>
     </td>
     <td>
       📄 <b>Description:</b><br>
